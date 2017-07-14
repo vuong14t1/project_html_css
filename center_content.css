@@ -3,3 +3,32 @@
 	float: left;
 	padding: 5px 10px;
 }
+.center_title_bar{
+	width: 520px;
+	height: 33px;
+	float: left;
+	background-color: #f2eaea;
+	padding-left: 40px;
+	margin-left: 12px;
+	line-height: 33px;
+	border-radius: 5px;
+}
+.prod_box{
+	width: 194px;
+	height: auto;
+	float: left;
+	padding: 10px 10px 10px 11px;
+}
+.top_prod_box{
+	width: 194px;
+	height: 12px;
+	background-color: #f2eaea;
+	border-radius: 5px 5px 0px 0px;
+}
+.bottom_prod_box{
+	width: 194px;
+	height: 10px;
+
+	background-color: #f2eaea;
+	border-radius: 0px 0px 5px 5px;
+}
