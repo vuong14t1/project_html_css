@@ -1,0 +1,39 @@
+.right_content{
+	width: 196px;
+	float: left;
+	padding: 5px 0 0 0;
+}
+.shopping_cart{
+	width: 195px;
+	height: 90px;
+	text-align: center;
+	background-color: #f2eaea;
+	border-radius: 5px;
+}
+.cart_title{
+	font-size: 14px;
+	color: #847676;
+	font-weight: bold;
+	padding-top: 8px;
+}
+.cart_detail{
+	width: 115px;
+	float: left;
+	text-align: left;
+	padding: 5px 0 0 10px;
+}
+.cart_icon{
+	float: left;
+	padding: 0 5px 0 0;
+}
+span.border_cart{
+	width: 100px;
+	height: 1px;
+	display: block;
+	margin:3px 0px;
+	border-top: 1px #999 dashed;
+}
+span.price{
+	color: red;
+	font-size: 15px;
+}

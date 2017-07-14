@@ -1,0 +1,11 @@
+.navigation{
+	width: 980px;
+	height: 15px;
+	padding: 5px 10px 0px 20px;
+	color: #333333;
+	background: url(image/navigation.png) no-repeat left;
+	background-position: 5px 5px ;
+}
+.navigation span.current{
+	color: red;
+}
